@@ -1,0 +1,274 @@
+nohup: ignoring input
+
+# Xengsort classify [2023-01-19 23:53:07]
+
+- (c) 2019-2023 by Sven Rahmann, Jens Zentgraf, Algorithmic Bioinformatics, Saarland University
+- Licensed under the MIT License
+- Loading hash index 'human_mouse_index.zarr'. [2023-01-19 23:53:07]
+- Using xengsort classification mode (recommended)
+- Processing contiguous 27-mers.
+
+## Classification Statistics
+
+```
+prefix	host	graft	ambiguous	both	neither
+/media/gedac/kane/raw_data/xenograft_DRA011243/DRR259325_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263607	869446	32747614	53413	1366644	25808
+```
+
+## Running time statistics
+
+- Running time in seconds: 738.9 sec
+- Running time in minutes: 12.31 min
+- Done. [2023-01-20 00:05:26]
+
+# Xengsort classify [2023-01-20 00:05:32]
+
+- (c) 2019-2023 by Sven Rahmann, Jens Zentgraf, Algorithmic Bioinformatics, Saarland University
+- Licensed under the MIT License
+- Loading hash index 'human_mouse_index.zarr'. [2023-01-20 00:05:32]
+- Using xengsort classification mode (recommended)
+- Processing contiguous 27-mers.
+
+## Classification Statistics
+
+```
+prefix	host	graft	ambiguous	both	neither
+/media/gedac/kane/raw_data/xenograft_DRA011243/DRR259326_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263608	10082180	19995638	197202	1978617	80295
+```
+
+## Running time statistics
+
+- Running time in seconds: 635.3 sec
+- Running time in minutes: 10.59 min
+- Done. [2023-01-20 00:16:07]
+
+# Xengsort classify [2023-01-20 00:16:12]
+
+- (c) 2019-2023 by Sven Rahmann, Jens Zentgraf, Algorithmic Bioinformatics, Saarland University
+- Licensed under the MIT License
+- Loading hash index 'human_mouse_index.zarr'. [2023-01-20 00:16:12]
+- Using xengsort classification mode (recommended)
+- Processing contiguous 27-mers.
+
+## Classification Statistics
+
+```
+prefix	host	graft	ambiguous	both	neither
+/media/gedac/kane/raw_data/xenograft_DRA011243/DRR259327_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263609	2243351	33805075	51115	308515	22069
+```
+
+## Running time statistics
+
+- Running time in seconds: 717.5 sec
+- Running time in minutes: 11.96 min
+- Done. [2023-01-20 00:28:09]
+
+# Xengsort classify [2023-01-20 00:28:13]
+
+- (c) 2019-2023 by Sven Rahmann, Jens Zentgraf, Algorithmic Bioinformatics, Saarland University
+- Licensed under the MIT License
+- Loading hash index 'human_mouse_index.zarr'. [2023-01-20 00:28:13]
+- Using xengsort classification mode (recommended)
+- Processing contiguous 27-mers.
+
+## Classification Statistics
+
+```
+prefix	host	graft	ambiguous	both	neither
+/media/gedac/kane/raw_data/xenograft_DRA011243/DRR259328_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263610	585796	39192798	28038	1218926	35429
+```
+
+## Running time statistics
+
+- Running time in seconds: 823.6 sec
+- Running time in minutes: 13.73 min
+- Done. [2023-01-20 00:41:57]
+
+# Xengsort classify [2023-01-20 00:42:01]
+
+- (c) 2019-2023 by Sven Rahmann, Jens Zentgraf, Algorithmic Bioinformatics, Saarland University
+- Licensed under the MIT License
+- Loading hash index 'human_mouse_index.zarr'. [2023-01-20 00:42:01]
+- Using xengsort classification mode (recommended)
+- Processing contiguous 27-mers.
+
+## Classification Statistics
+
+```
+prefix	host	graft	ambiguous	both	neither
+/media/gedac/kane/raw_data/xenograft_DRA011243/DRR259329_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263611	1314239	23322282	28892	491473	17364
+```
+
+## Running time statistics
+
+- Running time in seconds: 507.4 sec
+- Running time in minutes: 8.46 min
+- Done. [2023-01-20 00:50:28]
+
+# Xengsort classify [2023-01-20 00:50:33]
+
+- (c) 2019-2023 by Sven Rahmann, Jens Zentgraf, Algorithmic Bioinformatics, Saarland University
+- Licensed under the MIT License
+- Loading hash index 'human_mouse_index.zarr'. [2023-01-20 00:50:33]
+- Using xengsort classification mode (recommended)
+- Processing contiguous 27-mers.
+
+## Classification Statistics
+
+```
+prefix	host	graft	ambiguous	both	neither
+/media/gedac/kane/raw_data/xenograft_DRA011243/DRR259330_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263612	1209014	19877061	25732	1103441	19197
+```
+
+## Running time statistics
+
+- Running time in seconds: 434.3 sec
+- Running time in minutes: 7.24 min
+- Done. [2023-01-20 00:57:47]
+
+# Xengsort classify [2023-01-20 00:57:51]
+
+- (c) 2019-2023 by Sven Rahmann, Jens Zentgraf, Algorithmic Bioinformatics, Saarland University
+- Licensed under the MIT License
+- Loading hash index 'human_mouse_index.zarr'. [2023-01-20 00:57:51]
+- Using xengsort classification mode (recommended)
+- Processing contiguous 27-mers.
+
+## Classification Statistics
+
+```
+prefix	host	graft	ambiguous	both	neither
+/media/gedac/kane/raw_data/xenograft_DRA011243/DRR259331_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263613	4736	39689524	12881	146287	24513
+```
+
+## Running time statistics
+
+- Running time in seconds: 826.6 sec
+- Running time in minutes: 13.78 min
+- Done. [2023-01-20 01:11:37]
+
+# Xengsort classify [2023-01-20 01:11:41]
+
+- (c) 2019-2023 by Sven Rahmann, Jens Zentgraf, Algorithmic Bioinformatics, Saarland University
+- Licensed under the MIT License
+- Loading hash index 'human_mouse_index.zarr'. [2023-01-20 01:11:41]
+- Using xengsort classification mode (recommended)
+- Processing contiguous 27-mers.
+
+## Classification Statistics
+
+```
+prefix	host	graft	ambiguous	both	neither
+/media/gedac/kane/raw_data/xenograft_DRA011243/DRR259332_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263614	7309	37260723	8373	187308	22722
+```
+
+## Running time statistics
+
+- Running time in seconds: 793.9 sec
+- Running time in minutes: 13.23 min
+- Done. [2023-01-20 01:24:55]
+
+# Xengsort classify [2023-01-20 01:25:00]
+
+- (c) 2019-2023 by Sven Rahmann, Jens Zentgraf, Algorithmic Bioinformatics, Saarland University
+- Licensed under the MIT License
+- Loading hash index 'human_mouse_index.zarr'. [2023-01-20 01:25:00]
+- Using xengsort classification mode (recommended)
+- Processing contiguous 27-mers.
+
+## Classification Statistics
+
+```
+prefix	host	graft	ambiguous	both	neither
+/media/gedac/kane/raw_data/xenograft_DRA011243/DRR259333_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263615	7855	38905628	14471	257468	23222
+```
+
+## Running time statistics
+
+- Running time in seconds: 803.9 sec
+- Running time in minutes: 13.40 min
+- Done. [2023-01-20 01:38:24]
+
+# Xengsort classify [2023-01-20 01:38:28]
+
+- (c) 2019-2023 by Sven Rahmann, Jens Zentgraf, Algorithmic Bioinformatics, Saarland University
+- Licensed under the MIT License
+- Loading hash index 'human_mouse_index.zarr'. [2023-01-20 01:38:28]
+- Using xengsort classification mode (recommended)
+- Processing contiguous 27-mers.
+
+## Classification Statistics
+
+```
+prefix	host	graft	ambiguous	both	neither
+/media/gedac/kane/raw_data/xenograft_DRA011243/DRR259334_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263616	3093264	28576462	142089	130363	20556
+```
+
+## Running time statistics
+
+- Running time in seconds: 679.4 sec
+- Running time in minutes: 11.32 min
+- Done. [2023-01-20 01:49:47]
+
+# Xengsort classify [2023-01-20 01:49:51]
+
+- (c) 2019-2023 by Sven Rahmann, Jens Zentgraf, Algorithmic Bioinformatics, Saarland University
+- Licensed under the MIT License
+- Loading hash index 'human_mouse_index.zarr'. [2023-01-20 01:49:51]
+- Using xengsort classification mode (recommended)
+- Processing contiguous 27-mers.
+
+## Classification Statistics
+
+```
+prefix	host	graft	ambiguous	both	neither
+/media/gedac/kane/raw_data/xenograft_DRA011243/DRR259335_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263617	3750	33428453	11755	115295	20809
+```
+
+## Running time statistics
+
+- Running time in seconds: 689.9 sec
+- Running time in minutes: 11.50 min
+- Done. [2023-01-20 02:01:21]
+
+# Xengsort classify [2023-01-20 02:01:24]
+
+- (c) 2019-2023 by Sven Rahmann, Jens Zentgraf, Algorithmic Bioinformatics, Saarland University
+- Licensed under the MIT License
+- Loading hash index 'human_mouse_index.zarr'. [2023-01-20 02:01:24]
+- Using xengsort classification mode (recommended)
+- Processing contiguous 27-mers.
+
+## Classification Statistics
+
+```
+prefix	host	graft	ambiguous	both	neither
+/media/gedac/kane/raw_data/xenograft_DRA011243/DRR259336_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263618	3454	32728683	7210	91285	17000
+```
+
+## Running time statistics
+
+- Running time in seconds: 671.6 sec
+- Running time in minutes: 11.19 min
+- Done. [2023-01-20 02:12:36]
+
+# Xengsort classify [2023-01-20 02:12:40]
+
+- (c) 2019-2023 by Sven Rahmann, Jens Zentgraf, Algorithmic Bioinformatics, Saarland University
+- Licensed under the MIT License
+- Loading hash index 'human_mouse_index.zarr'. [2023-01-20 02:12:40]
+- Using xengsort classification mode (recommended)
+- Processing contiguous 27-mers.
+
+## Classification Statistics
+
+```
+prefix	host	graft	ambiguous	both	neither
+/media/gedac/kane/raw_data/xenograft_DRA011243/DRR259337_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263619	6185	34094982	7586	204065	21121
+```
+
+## Running time statistics
+
+- Running time in seconds: 718.9 sec
+- Running time in minutes: 11.98 min
+- Done. [2023-01-20 02:24:39]

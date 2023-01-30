@@ -1,0 +1,15 @@
+Status	./DRR259327_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263609-default_graft.fqAligned.out.bam	./DRR259334_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263616-default_graft.fqAligned.out.bam	./DRR259332_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263614-default_graft.fqAligned.out.bam	./DRR259328_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263610-default_graft.fqAligned.out.bam	./DRR259329_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263611-default_graft.fqAligned.out.bam	./DRR259330_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263612-default_graft.fqAligned.out.bam	./DRR259336_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263618-default_graft.fqAligned.out.bam	./DRR259325_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263607-default_graft.fqAligned.out.bam	./DRR259326_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263608-default_graft.fqAligned.out.bam	./DRR259331_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263613-default_graft.fqAligned.out.bam	./DRR259337_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263619-default_graft.fqAligned.out.bam	./DRR259333_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263615-default_graft.fqAligned.out.bam	./DRR259335_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263617-default_graft.fqAligned.out.bam
+Assigned	28021615	22771188	29059055	31724468	19085259	15688343	26735938	24895082	13656368	29503252	26486961	30199665	26564409
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	5078166	3214609	4592569	15396116	6620684	13235319	3118148	18712856	20710277	4081054	4366031	5098796	3485379
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	1828507	2597339	4334548	1939347	1308838	709708	2195538	2117544	1875324	5676575	3806704	4343227	2750606
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	1539571	1125813	1517767	1488667	988147	934191	1424085	1365990	730050	1542559	1205258	1383929	1384021

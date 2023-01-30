@@ -1,0 +1,17 @@
+nohup: ignoring input
+	STAR --runThreadN 12 --runMode genomeGenerate --genomeDir star_index_hg38 star_index_grch38 --genomeFastaFiles grch38.primary_assembly.fa --sjdbGTFfile gencode.v42.primary_assembly.annotation.gtf
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 19 13:07:26 ..... started STAR run
+Jan 19 13:07:26 ... starting to generate Genome files
+Jan 19 13:08:25 ..... processing annotations GTF
+Jan 19 13:08:59 ... starting to sort Suffix Array. This may take a long time...
+Jan 19 13:09:19 ... sorting Suffix Array chunks and saving them to disk...
+Jan 19 13:41:37 ... loading chunks from disk, packing SA...
+Jan 19 13:43:45 ... finished generating suffix array
+Jan 19 13:43:45 ... generating Suffix Array index
+Jan 19 13:49:11 ... completed Suffix Array index
+Jan 19 13:49:11 ..... inserting junctions into the genome indices
+Jan 19 13:54:30 ... writing Genome to disk ...
+Jan 19 13:54:35 ... writing Suffix Array to disk ...
+Jan 19 13:55:09 ... writing SAindex to disk
+Jan 19 13:55:13 ..... finished successfully

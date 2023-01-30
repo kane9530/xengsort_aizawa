@@ -1,0 +1,99 @@
+nohup: ignoring input
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259325_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263607-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259325_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263607-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259325_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263607-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 06:43:00 ..... started STAR run
+Jan 20 06:43:00 ..... loading genome
+Jan 20 06:43:52 ..... started mapping
+Jan 20 06:50:52 ..... finished mapping
+Jan 20 06:50:59 ..... finished successfully
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259326_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263608-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259326_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263608-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259326_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263608-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 06:50:59 ..... started STAR run
+Jan 20 06:50:59 ..... loading genome
+Jan 20 06:51:45 ..... started mapping
+Jan 20 06:56:39 ..... finished mapping
+Jan 20 06:56:45 ..... finished successfully
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259327_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263609-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259327_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263609-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259327_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263609-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 06:56:45 ..... started STAR run
+Jan 20 06:56:45 ..... loading genome
+Jan 20 06:57:25 ..... started mapping
+Jan 20 07:05:44 ..... finished mapping
+Jan 20 07:05:50 ..... finished successfully
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259328_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263610-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259328_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263610-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259328_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263610-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 07:05:50 ..... started STAR run
+Jan 20 07:05:50 ..... loading genome
+Jan 20 07:06:30 ..... started mapping
+Jan 20 07:15:26 ..... finished mapping
+Jan 20 07:15:31 ..... finished successfully
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259329_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263611-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259329_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263611-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259329_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263611-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 07:15:32 ..... started STAR run
+Jan 20 07:15:32 ..... loading genome
+Jan 20 07:16:27 ..... started mapping
+Jan 20 07:22:37 ..... finished mapping
+Jan 20 07:22:43 ..... finished successfully
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259330_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263612-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259330_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263612-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259330_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263612-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 07:22:43 ..... started STAR run
+Jan 20 07:22:43 ..... loading genome
+Jan 20 07:23:12 ..... started mapping
+Jan 20 07:27:45 ..... finished mapping
+Jan 20 07:27:50 ..... finished successfully
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259331_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263613-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259331_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263613-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259331_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263613-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 07:27:50 ..... started STAR run
+Jan 20 07:27:50 ..... loading genome
+Jan 20 07:28:20 ..... started mapping
+Jan 20 07:37:29 ..... finished mapping
+Jan 20 07:37:34 ..... finished successfully
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259332_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263614-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259332_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263614-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259332_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263614-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 07:37:34 ..... started STAR run
+Jan 20 07:37:34 ..... loading genome
+Jan 20 07:38:14 ..... started mapping
+Jan 20 07:46:53 ..... finished mapping
+Jan 20 07:46:59 ..... finished successfully
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259333_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263615-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259333_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263615-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259333_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263615-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 07:47:00 ..... started STAR run
+Jan 20 07:47:00 ..... loading genome
+Jan 20 07:47:52 ..... started mapping
+Jan 20 08:01:44 ..... finished mapping
+Jan 20 08:01:49 ..... finished successfully
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259334_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263616-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259334_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263616-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259334_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263616-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 08:01:49 ..... started STAR run
+Jan 20 08:01:49 ..... loading genome
+Jan 20 08:03:17 ..... started mapping
+Jan 20 08:09:02 ..... finished mapping
+Jan 20 08:09:07 ..... finished successfully
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259335_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263617-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259335_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263617-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259335_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263617-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 08:09:07 ..... started STAR run
+Jan 20 08:09:07 ..... loading genome
+Jan 20 08:10:14 ..... started mapping
+Jan 20 08:16:16 ..... finished mapping
+Jan 20 08:16:20 ..... finished successfully
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259336_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263618-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259336_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263618-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259336_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263618-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 08:16:21 ..... started STAR run
+Jan 20 08:16:21 ..... loading genome
+Jan 20 08:17:34 ..... started mapping
+Jan 20 08:24:26 ..... finished mapping
+Jan 20 08:24:32 ..... finished successfully
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259337-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259337-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259337-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 08:24:32 ..... started STAR run
+Jan 20 08:24:32 ..... loading genome
+Jan 20 08:25:29 ..... started mapping
+Jan 20 08:25:44 ..... finished mapping
+Jan 20 08:25:46 ..... finished successfully
+	STAR --genomeDir /media/gedac/kane/raw_data/xenograft_DRA011243/star_index_hg38 --runThreadN 20 --readFilesIn /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259337_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263619-graft.1.fq /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259337_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263619-graft.2.fq --outSAMtype BAM Unsorted --outFileNamePrefix /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259337_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263619-default_graft.fq
+	STAR version: 2.7.10b   compiled: 2022-11-01T09:53:26-04:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Jan 20 08:25:46 ..... started STAR run
+Jan 20 08:25:46 ..... loading genome
+Jan 20 08:26:28 ..... started mapping
+Jan 20 08:33:26 ..... finished mapping
+Jan 20 08:33:31 ..... finished successfully

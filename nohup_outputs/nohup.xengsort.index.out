@@ -1,0 +1,51 @@
+nohup: ignoring input
+
+# Xengsort index [2023-01-19 08:10:16]
+
+- (c) Algorithmic Bioinformatics, Saarland University
+- (c) Sven Rahmann, Jens Zentgraf
+- Licensed under the MIT License
+- Memory for hash table: 18274.003 MB
+- Building from FASTA, using 9 subtables in parallel.
+- Processing contiguous 27-mers.
+- Building from FASTA, using 9 subtables in parallel.
+- Processing contiguous 27-mers.
+
+- Computing weak k-mers... [2023-01-19 08:25:06]
+- Total time for weak k-mers: 673.3 sec
+
+- SUCCESS, processed 6349215858 k-mers; writing 'human_mouse_index.zarr'. [2023-01-19 08:36:19]
+
+## Value statistics 
+
+- 1: 2105422905 (45.999%)
+- 2: 2395389715 (52.334%)
+- 3: 5412382 (0.118%)
+- 5: 32451057 (0.709%)
+- 6: 34218487 (0.748%)
+- 7: 4217456 (0.092%)
+
+## Page fill statistics 
+
+- 0: 7969720
+- 1: 40485441 (3.169%)
+- 2: 102730948 (8.042%)
+- 3: 173872543 (13.611%)
+- 4: 952386759 (74.554%)
+- fill nonzero: 1269475691 (99.376%)
+- fill average [all]: 3.5830
+
+## Choice statistics 
+
+- 0: 532669642
+- 1: 3444459766 (75.254%)
+- 2: 738856814 (16.142%)
+- 3: 393795422 (8.604%)
+- choice nonzero: 4577112002 (89.575%)
+- choice average [positive]: 1.3335
+
+## Running time statistics
+
+- Running time in seconds: 1636.8 sec
+- Running time in minutes: 27.28 min
+- Done. [2023-01-19 08:37:33]

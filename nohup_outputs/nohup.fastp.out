@@ -1,0 +1,534 @@
+nohup: ignoring input
+Read1 before filtering:
+total reads: 36839173
+total bases: 5525875950
+Q20 bases: 5422865202(98.1358%)
+Q30 bases: 5268643499(95.3449%)
+
+Read2 before filtering:
+total reads: 36839173
+total bases: 5525875950
+Q20 bases: 5208452884(94.2557%)
+Q30 bases: 4936276542(89.3302%)
+
+Read1 after filtering:
+total reads: 35062925
+total bases: 4797140424
+Q20 bases: 4736666239(98.7394%)
+Q30 bases: 4611132166(96.1225%)
+
+Read2 after filtering:
+total reads: 35062925
+total bases: 4797140424
+Q20 bases: 4683314779(97.6272%)
+Q30 bases: 4491618216(93.6312%)
+
+Filtering result:
+reads passed filter: 70125850
+reads failed due to low quality: 3552486
+reads failed due to too many N: 10
+reads failed due to too short: 0
+reads with adapter trimmed: 29221780
+bases trimmed due to adapters: 925044078
+
+Duplication rate: 30.6286%
+
+Insert size peak (evaluated by paired-end reads): 124
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp -i /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259325_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263607_1.fastq.gz -I /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259325_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263607_2.fastq.gz -o /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259325_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263607_1.trimmed.fastq.gz -O /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259325_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263607_2.trimmed.fastq.gz 
+fastp v0.23.2, time used: 228 seconds
+Read1 before filtering:
+total reads: 34270689
+total bases: 5140603350
+Q20 bases: 5062388132(98.4785%)
+Q30 bases: 4917983973(95.6694%)
+
+Read2 before filtering:
+total reads: 34270689
+total bases: 5140603350
+Q20 bases: 4798131871(93.3379%)
+Q30 bases: 4544592657(88.4058%)
+
+Read1 after filtering:
+total reads: 32333932
+total bases: 4400252944
+Q20 bases: 4343109887(98.7014%)
+Q30 bases: 4226289369(96.0465%)
+
+Read2 after filtering:
+total reads: 32333932
+total bases: 4400252944
+Q20 bases: 4294518603(97.5971%)
+Q30 bases: 4123839538(93.7182%)
+
+Filtering result:
+reads passed filter: 64667864
+reads failed due to low quality: 3873510
+reads failed due to too many N: 4
+reads failed due to too short: 0
+reads with adapter trimmed: 29064088
+bases trimmed due to adapters: 900162148
+
+Duplication rate: 34.2342%
+
+Insert size peak (evaluated by paired-end reads): 124
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp -i /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259326_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263608_1.fastq.gz -I /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259326_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263608_2.fastq.gz -o /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259326_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263608_1.trimmed.fastq.gz -O /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259326_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263608_2.trimmed.fastq.gz 
+fastp v0.23.2, time used: 208 seconds
+Read1 before filtering:
+total reads: 38276208
+total bases: 5741431200
+Q20 bases: 5654385668(98.4839%)
+Q30 bases: 5489387739(95.6101%)
+
+Read2 before filtering:
+total reads: 38276208
+total bases: 5741431200
+Q20 bases: 5419867402(94.3992%)
+Q30 bases: 5151433446(89.7239%)
+
+Read1 after filtering:
+total reads: 36430125
+total bases: 4952498521
+Q20 bases: 4891248717(98.7633%)
+Q30 bases: 4759095063(96.0948%)
+
+Read2 after filtering:
+total reads: 36430125
+total bases: 4952498521
+Q20 bases: 4839110341(97.7105%)
+Q30 bases: 4655386551(94.0008%)
+
+Filtering result:
+reads passed filter: 72860250
+reads failed due to low quality: 3692166
+reads failed due to too many N: 0
+reads failed due to too short: 0
+reads with adapter trimmed: 32845752
+bases trimmed due to adapters: 1024588112
+
+Duplication rate: 31.8271%
+
+Insert size peak (evaluated by paired-end reads): 124
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp -i /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259327_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263609_1.fastq.gz -I /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259327_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263609_2.fastq.gz -o /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259327_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263609_1.trimmed.fastq.gz -O /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259327_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263609_2.trimmed.fastq.gz 
+fastp v0.23.2, time used: 229 seconds
+Read1 before filtering:
+total reads: 43607879
+total bases: 6541181850
+Q20 bases: 6439013394(98.4381%)
+Q30 bases: 6247440303(95.5094%)
+
+Read2 before filtering:
+total reads: 43607879
+total bases: 6541181850
+Q20 bases: 6129798042(93.7109%)
+Q30 bases: 5805544988(88.7538%)
+
+Read1 after filtering:
+total reads: 41060987
+total bases: 5501162702
+Q20 bases: 5429798952(98.7028%)
+Q30 bases: 5279683759(95.974%)
+
+Read2 after filtering:
+total reads: 41060987
+total bases: 5501162702
+Q20 bases: 5360522234(97.4434%)
+Q30 bases: 5144780291(93.5217%)
+
+Filtering result:
+reads passed filter: 82121974
+reads failed due to low quality: 5093784
+reads failed due to too many N: 0
+reads failed due to too short: 0
+reads with adapter trimmed: 40358906
+bases trimmed due to adapters: 1316735448
+
+Duplication rate: 44.3166%
+
+Insert size peak (evaluated by paired-end reads): 124
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp -i /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259328_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263610_1.fastq.gz -I /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259328_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263610_2.fastq.gz -o /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259328_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263610_1.trimmed.fastq.gz -O /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259328_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263610_2.trimmed.fastq.gz 
+fastp v0.23.2, time used: 268 seconds
+Read1 before filtering:
+total reads: 26437126
+total bases: 3965568900
+Q20 bases: 3904667901(98.4643%)
+Q30 bases: 3790312067(95.5805%)
+
+Read2 before filtering:
+total reads: 26437126
+total bases: 3965568900
+Q20 bases: 3739639582(94.3027%)
+Q30 bases: 3551511459(89.5587%)
+
+Read1 after filtering:
+total reads: 25174250
+total bases: 3406514835
+Q20 bases: 3362853736(98.7183%)
+Q30 bases: 3271404610(96.0338%)
+
+Read2 after filtering:
+total reads: 25174250
+total bases: 3406514835
+Q20 bases: 3327079803(97.6681%)
+Q30 bases: 3197079798(93.8519%)
+
+Filtering result:
+reads passed filter: 50348500
+reads failed due to low quality: 2525750
+reads failed due to too many N: 2
+reads failed due to too short: 0
+reads with adapter trimmed: 23411154
+bases trimmed due to adapters: 739605746
+
+Duplication rate: 30.6541%
+
+Insert size peak (evaluated by paired-end reads): 124
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp -i /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259329_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263611_1.fastq.gz -I /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259329_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263611_2.fastq.gz -o /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259329_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263611_1.trimmed.fastq.gz -O /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259329_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263611_2.trimmed.fastq.gz 
+fastp v0.23.2, time used: 184 seconds
+Read1 before filtering:
+total reads: 23137528
+total bases: 3470629200
+Q20 bases: 3419830675(98.5363%)
+Q30 bases: 3322864493(95.7424%)
+
+Read2 before filtering:
+total reads: 23137528
+total bases: 3470629200
+Q20 bases: 3289952858(94.7941%)
+Q30 bases: 3129010572(90.1569%)
+
+Read1 after filtering:
+total reads: 22234445
+total bases: 2960718340
+Q20 bases: 2924154017(98.765%)
+Q30 bases: 2845837344(96.1198%)
+
+Read2 after filtering:
+total reads: 22234445
+total bases: 2960718340
+Q20 bases: 2894605770(97.767%)
+Q30 bases: 2780741662(93.9212%)
+
+Filtering result:
+reads passed filter: 44468890
+reads failed due to low quality: 1806166
+reads failed due to too many N: 0
+reads failed due to too short: 0
+reads with adapter trimmed: 23016960
+bases trimmed due to adapters: 749265134
+
+Duplication rate: 36.1596%
+
+Insert size peak (evaluated by paired-end reads): 124
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp -i /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259330_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263612_1.fastq.gz -I /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259330_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263612_2.fastq.gz -o /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259330_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263612_1.trimmed.fastq.gz -O /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259330_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263612_2.trimmed.fastq.gz 
+fastp v0.23.2, time used: 143 seconds
+Read1 before filtering:
+total reads: 41460968
+total bases: 6219145200
+Q20 bases: 6125159512(98.4888%)
+Q30 bases: 5946414698(95.6147%)
+
+Read2 before filtering:
+total reads: 41460968
+total bases: 6219145200
+Q20 bases: 5916492172(95.1335%)
+Q30 bases: 5622203172(90.4015%)
+
+Read1 after filtering:
+total reads: 39877941
+total bases: 5474224105
+Q20 bases: 5405929358(98.7524%)
+Q30 bases: 5259407797(96.0759%)
+
+Read2 after filtering:
+total reads: 39877941
+total bases: 5474224105
+Q20 bases: 5349977499(97.7303%)
+Q30 bases: 5134709015(93.7979%)
+
+Filtering result:
+reads passed filter: 79755882
+reads failed due to low quality: 3166050
+reads failed due to too many N: 4
+reads failed due to too short: 0
+reads with adapter trimmed: 32813114
+bases trimmed due to adapters: 1015368890
+
+Duplication rate: 23.594%
+
+Insert size peak (evaluated by paired-end reads): 124
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp -i /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259331_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263613_1.fastq.gz -I /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259331_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263613_2.fastq.gz -o /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259331_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263613_1.trimmed.fastq.gz -O /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259331_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263613_2.trimmed.fastq.gz 
+fastp v0.23.2, time used: 258 seconds
+Read1 before filtering:
+total reads: 38436640
+total bases: 5765496000
+Q20 bases: 5671764026(98.3743%)
+Q30 bases: 5497139846(95.3455%)
+
+Read2 before filtering:
+total reads: 38436640
+total bases: 5765496000
+Q20 bases: 5533121634(95.9696%)
+Q30 bases: 5276351404(91.516%)
+
+Read1 after filtering:
+total reads: 37486435
+total bases: 5124594840
+Q20 bases: 5055539388(98.6525%)
+Q30 bases: 4910587909(95.8239%)
+
+Read2 after filtering:
+total reads: 37486435
+total bases: 5124594840
+Q20 bases: 5018503577(97.9298%)
+Q30 bases: 4823975242(94.1338%)
+
+Filtering result:
+reads passed filter: 74972870
+reads failed due to low quality: 1900408
+reads failed due to too many N: 2
+reads failed due to too short: 0
+reads with adapter trimmed: 32054574
+bases trimmed due to adapters: 997173884
+
+Duplication rate: 25.6757%
+
+Insert size peak (evaluated by paired-end reads): 124
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp -i /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259332_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263614_1.fastq.gz -I /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259332_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263614_2.fastq.gz -o /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259332_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263614_1.trimmed.fastq.gz -O /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259332_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263614_2.trimmed.fastq.gz 
+fastp v0.23.2, time used: 232 seconds
+Read1 before filtering:
+total reads: 41614450
+total bases: 6242167500
+Q20 bases: 6150757571(98.5356%)
+Q30 bases: 5974469482(95.7115%)
+
+Read2 before filtering:
+total reads: 41614450
+total bases: 6242167500
+Q20 bases: 5819582852(93.2302%)
+Q30 bases: 5491579154(87.9755%)
+
+Read1 after filtering:
+total reads: 39208644
+total bases: 5348254453
+Q20 bases: 5280646185(98.7359%)
+Q30 bases: 5137017809(96.0504%)
+
+Read2 after filtering:
+total reads: 39208644
+total bases: 5348254453
+Q20 bases: 5211661724(97.446%)
+Q30 bases: 4985512301(93.2176%)
+
+Filtering result:
+reads passed filter: 78417288
+reads failed due to low quality: 4811606
+reads failed due to too many N: 6
+reads failed due to too short: 0
+reads with adapter trimmed: 34013604
+bases trimmed due to adapters: 1066623582
+
+Duplication rate: 24.1594%
+
+Insert size peak (evaluated by paired-end reads): 124
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp -i /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259333_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263615_1.fastq.gz -I /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259333_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263615_2.fastq.gz -o /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259333_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263615_1.trimmed.fastq.gz -O /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259333_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263615_2.trimmed.fastq.gz 
+fastp v0.23.2, time used: 264 seconds
+Read1 before filtering:
+total reads: 33396397
+total bases: 5009459550
+Q20 bases: 4932814376(98.47%)
+Q30 bases: 4787709181(95.5734%)
+
+Read2 before filtering:
+total reads: 33396397
+total bases: 5009459550
+Q20 bases: 4748709185(94.7948%)
+Q30 bases: 4515554799(90.1406%)
+
+Read1 after filtering:
+total reads: 31962734
+total bases: 4361674730
+Q20 bases: 4304110721(98.6802%)
+Q30 bases: 4184115559(95.9291%)
+
+Read2 after filtering:
+total reads: 31962734
+total bases: 4361674730
+Q20 bases: 4258657812(97.6381%)
+Q30 bases: 4085299952(93.6636%)
+
+Filtering result:
+reads passed filter: 63925468
+reads failed due to low quality: 2867318
+reads failed due to too many N: 8
+reads failed due to too short: 0
+reads with adapter trimmed: 27745666
+bases trimmed due to adapters: 865895218
+
+Duplication rate: 17.8838%
+
+Insert size peak (evaluated by paired-end reads): 124
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp -i /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259334_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263616_1.fastq.gz -I /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259334_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263616_2.fastq.gz -o /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259334_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263616_1.trimmed.fastq.gz -O /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259334_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263616_2.trimmed.fastq.gz 
+fastp v0.23.2, time used: 197 seconds
+Read1 before filtering:
+total reads: 35659447
+total bases: 5348917050
+Q20 bases: 5268143107(98.4899%)
+Q30 bases: 5114506677(95.6176%)
+
+Read2 before filtering:
+total reads: 35659447
+total bases: 5348917050
+Q20 bases: 5005933256(93.5878%)
+Q30 bases: 4739783475(88.612%)
+
+Read1 after filtering:
+total reads: 33580062
+total bases: 4574955072
+Q20 bases: 4515613541(98.7029%)
+Q30 bases: 4391007178(95.9792%)
+
+Read2 after filtering:
+total reads: 33580062
+total bases: 4574955072
+Q20 bases: 4457791499(97.439%)
+Q30 bases: 4273781659(93.4169%)
+
+Filtering result:
+reads passed filter: 67160124
+reads failed due to low quality: 4158768
+reads failed due to too many N: 2
+reads failed due to too short: 0
+reads with adapter trimmed: 28780334
+bases trimmed due to adapters: 924584780
+
+Duplication rate: 22.7241%
+
+Insert size peak (evaluated by paired-end reads): 124
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp -i /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259335_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263617_1.fastq.gz -I /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259335_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263617_2.fastq.gz -o /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259335_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263617_1.trimmed.fastq.gz -O /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259335_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263617_2.trimmed.fastq.gz 
+fastp v0.23.2, time used: 213 seconds
+Read1 before filtering:
+total reads: 34121815
+total bases: 5118272250
+Q20 bases: 5040016999(98.4711%)
+Q30 bases: 4889086316(95.5222%)
+
+Read2 before filtering:
+total reads: 34121815
+total bases: 5118272250
+Q20 bases: 4856918773(94.8937%)
+Q30 bases: 4606157398(89.9944%)
+
+Read1 after filtering:
+total reads: 32847632
+total bases: 4519702725
+Q20 bases: 4462702587(98.7389%)
+Q30 bases: 4337890958(95.9774%)
+
+Read2 after filtering:
+total reads: 32847632
+total bases: 4519702725
+Q20 bases: 4408632904(97.5425%)
+Q30 bases: 4215510422(93.2696%)
+
+Filtering result:
+reads passed filter: 65695264
+reads failed due to low quality: 2548360
+reads failed due to too many N: 6
+reads failed due to too short: 0
+reads with adapter trimmed: 26806634
+bases trimmed due to adapters: 815242798
+
+Duplication rate: 21.4406%
+
+Insert size peak (evaluated by paired-end reads): 124
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp -i /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259336_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263618_1.fastq.gz -I /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259336_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263618_2.fastq.gz -o /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259336_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263618_1.trimmed.fastq.gz -O /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259336_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263618_2.trimmed.fastq.gz 
+fastp v0.23.2, time used: 202 seconds
+Read1 before filtering:
+total reads: 35229278
+total bases: 5284391700
+Q20 bases: 5206397302(98.5241%)
+Q30 bases: 5058593553(95.7271%)
+
+Read2 before filtering:
+total reads: 35229278
+total bases: 5284391700
+Q20 bases: 5058608683(95.7274%)
+Q30 bases: 4822005849(91.25%)
+
+Read1 after filtering:
+total reads: 34333939
+total bases: 4723511396
+Q20 bases: 4668765965(98.841%)
+Q30 bases: 4546552840(96.2537%)
+
+Read2 after filtering:
+total reads: 34333939
+total bases: 4723511396
+Q20 bases: 4624706489(97.9082%)
+Q30 bases: 4442299377(94.0465%)
+
+Filtering result:
+reads passed filter: 68667878
+reads failed due to low quality: 1790672
+reads failed due to too many N: 6
+reads failed due to too short: 0
+reads with adapter trimmed: 27245170
+bases trimmed due to adapters: 853512410
+
+Duplication rate: 16.9121%
+
+Insert size peak (evaluated by paired-end reads): 124
+
+JSON report: fastp.json
+HTML report: fastp.html
+
+fastp -i /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259337_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263619_1.fastq.gz -I /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259337_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263619_2.fastq.gz -o /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259337_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263619_1.trimmed.fastq.gz -O /media/gedac/kane/raw_data/xenograft_DRA011243/DRR259337_Illumina_NovaSeq_6000_paired_end_sequencing_of_SAMD00263619_2.trimmed.fastq.gz 
+fastp v0.23.2, time used: 214 seconds
